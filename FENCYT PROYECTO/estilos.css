@@ -1,0 +1,23 @@
+body{
+
+}
+
+img #banners
+{
+    width: 291px; height: 200px;
+    
+}
+
+
+#titulo{   
+    color: beige;    
+    width: 100%; height: 10%;
+    font-family: 'Exo 2', sans-serif;
+    background-color: #28a74a;    
+}
+
+
+img #banner2
+{
+    width: 400px; height: 600px;
+}
